@@ -1,0 +1,9 @@
+C:\Users\kanda\source\repos\App\AspNetIdentityDemo\AspNetIdentityDemo.shared\bin\Debug\netstandard2.0\AspNetIdentityDemo.shared.deps.json
+C:\Users\kanda\source\repos\App\AspNetIdentityDemo\AspNetIdentityDemo.shared\bin\Debug\netstandard2.0\AspNetIdentityDemo.shared.dll
+C:\Users\kanda\source\repos\App\AspNetIdentityDemo\AspNetIdentityDemo.shared\bin\Debug\netstandard2.0\AspNetIdentityDemo.shared.pdb
+C:\Users\kanda\source\repos\App\AspNetIdentityDemo\AspNetIdentityDemo.shared\obj\Debug\netstandard2.0\AspNetIdentityDemo.shared.csprojAssemblyReference.cache
+C:\Users\kanda\source\repos\App\AspNetIdentityDemo\AspNetIdentityDemo.shared\obj\Debug\netstandard2.0\AspNetIdentityDemo.shared.AssemblyInfoInputs.cache
+C:\Users\kanda\source\repos\App\AspNetIdentityDemo\AspNetIdentityDemo.shared\obj\Debug\netstandard2.0\AspNetIdentityDemo.shared.AssemblyInfo.cs
+C:\Users\kanda\source\repos\App\AspNetIdentityDemo\AspNetIdentityDemo.shared\obj\Debug\netstandard2.0\AspNetIdentityDemo.shared.dll
+C:\Users\kanda\source\repos\App\AspNetIdentityDemo\AspNetIdentityDemo.shared\obj\Debug\netstandard2.0\AspNetIdentityDemo.shared.pdb
+C:\Users\kanda\source\repos\App\AspNetIdentityDemo\AspNetIdentityDemo.shared\obj\Debug\netstandard2.0\AspNetIdentityDemo.shared.csproj.CoreCompileInputs.cache
